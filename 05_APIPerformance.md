@@ -48,7 +48,7 @@ The API performance was evaluated using ApacheBench (ab) with the following conf
 The API demonstrates solid performance under moderate concurrency, maintaining low latency and zero failed requests. With an average request processing time around 127 ms and throughput of ~78 requests per second, it is suitable for real-time or near-real-time applications.
 
 
-### 🧪 API Testing with Swagger UI
+### API Testing with Swagger UI
 
 FastAPI automatically provides an interactive API documentation powered by **Swagger UI**.  
 This makes it extremely easy to explore and test the `/predict` endpoint right from your browser.
