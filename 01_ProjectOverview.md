@@ -1,6 +1,6 @@
 # 🧠 EEG Emotion Recognition Project
 
-This project develops a machine learning pipeline to classify emotional states (POSITIVE, NEUTRAL, NEGATIVE) based on EEG signal features.
+A machine learning pipeline and FastAPI-powered web service for classifying emotional states (POSITIVE, NEUTRAL, NEGATIVE) from EEG signal features.
 
 ---
 
