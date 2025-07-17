@@ -134,7 +134,7 @@ In contrast, the XGBoost classifier achieved remarkable results with 99.5% accur
 ## API Performance
 
 The API's response time and concurrency performance were evaluated using ApacheBench.
-See [APIPerformance.md](./APIPerformance.md) for detailed benchmark results and interactive testing guide via Swagger UI.
+See [05_APIPerformance.md](./APIPerformance.md) for detailed benchmark results and interactive testing guide via Swagger UI.
 
 ---
 
